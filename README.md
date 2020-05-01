@@ -5,3 +5,7 @@
 * Terraform
 * AWS CLI
 * Ansible
+* Docker
+
+# hyperv support
+* to use hyperv: vagrant up --provider=hyperv
